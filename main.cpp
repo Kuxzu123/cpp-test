@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 int main()
-{ double liczba10; // liczba z u³amkiem dziesiêtnym
+{ double liczba10; // liczba z uÅ‚amkiem dziesiÄ™tnym
  double ulamek;
     int n;
     int t[10]={0};
-    int u[100]={0}; //na ulamek binarny
+    int u[100]={0}; //na liczbe z ulamek binarnym
     int i=9;
 cout<<"Podaj liczbe";
 cin>>liczba10; //wczytanie liczby z ulamkiem
